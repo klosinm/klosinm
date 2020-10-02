@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hello Everyone!  👋
+
+I am a senior in undergrad studying computer science and data science.
+
+Techinal Skills: SQL | PowerBI | C | C++| C# | Java | JavaScript | CSS | HTML | R | Python
+
+
+
+- 🌱 I'm currently learning Network Analysis
+- 💬 I am looking for opportunties to work on big-data analysis 
+- 😄 Pronouns: She/Her
+
+### Contact me!
+📫 monicaklosin@gmail.com | <a href="https://www.linkedin.com/in/monica-klosin-476316b6/">Linkedin</a>
+
 
 <!--
 **klosinm/klosinm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
