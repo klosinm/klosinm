@@ -1,6 +1,6 @@
 ## Hello Everyone!  👋
 
-I am a senior in undergrad studying computer science and data science.
+I am a senior in undergrad studying computer science and data science. I’ve had experience analyzing big-data using SQL and R at one of my previous internships, and taking that data to model user bahavior. 1
 
 Techinal Skills: SQL | PowerBI | C | C++| C# | Java | JavaScript | CSS | HTML | R | Python
 
