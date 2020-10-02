@@ -7,7 +7,7 @@ Techinal Skills: SQL | PowerBI | C | C++| C# | Java | JavaScript | CSS | HTML | 
 
 
 - 🌱 I'm currently learning Network Analysis
-- 💬 I am looking for opportunties to work on big-data analysis 
+- 💬 I am looking for opportunties to use my skills in data science or analytics
 - 😄 Pronouns: She/Her
 
 ### Contact me!
