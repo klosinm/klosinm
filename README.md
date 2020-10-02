@@ -10,7 +10,7 @@ Techinal Skills: SQL | PowerBI | C | C++| C# | Java | JavaScript | CSS | HTML | 
 - 💬 I am looking for opportunties to use my skills in data science or analytics
 - 😄 Pronouns: She/Her
 
-### Contact me!
+### Lets connect!
 📫 monicaklosin@gmail.com | <a href="https://www.linkedin.com/in/monica-klosin-476316b6/">Linkedin</a>
 
 
