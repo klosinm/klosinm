@@ -6,7 +6,7 @@ Techinal Skills:  C | C++| C# | Java | JavaScript | SQL | PowerBI | CSS | HTML |
 
 
 
-- 🌱 I'm currently learning Network Analysis
+- 🌱 I'm currently learning Network Analysis and Bokeh
 - 💬 I am looking for opportunties to use my skills in data science or analytics
 - 😄 Pronouns: She/Her
 
