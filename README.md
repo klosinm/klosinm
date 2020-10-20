@@ -11,7 +11,7 @@ Techinal Skills:  C | C++| C# | Java | JavaScript | SQL | PowerBI | CSS | HTML |
 - 😄 Pronouns: She/Her
 
 ### Lets connect! 💻
-  <a href="https://monicaklosin.herokuapp.com/">Website </a> |  monicaklosin@gmail.com |  <a href="https://www.linkedin.com/in/monica-klosin-476316b6/">Linkedin</a>
+  <a href="http://www.monicaklosin.com">Website </a> |  monicaklosin@gmail.com |  <a href="https://www.linkedin.com/in/monica-klosin-476316b6/">Linkedin</a>
 
 
 
